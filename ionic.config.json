@@ -1,0 +1,7 @@
+{
+  "name": "humedapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
