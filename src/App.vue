@@ -56,14 +56,14 @@ export default defineComponent({
     const selectedIndex = ref(0);
     const appPages = [
       {
-        title: 'Inbox',
-        url: '/folder/Inbox',
+        title: 'Inicio',
+        url: '/folder/Inicio',
         iosIcon: mailOutline,
         mdIcon: mailSharp
       },
       {
-        title: 'Outbox',
-        url: '/folder/Outbox',
+        title: 'Registrar Humedal',
+        url: '/folder/Registrar Humedal',
         iosIcon: paperPlaneOutline,
         mdIcon: paperPlaneSharp
       },
